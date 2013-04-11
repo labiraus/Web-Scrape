@@ -39,9 +39,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Browse.cs" />
     <Compile Include="ElementParser.cs" />
     <Compile Include="Extensions.cs" />
-    <Compile Include="IElement.cs" />
+    <Compile Include="GenericElement.cs" />
     <Compile Include="Scraper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
